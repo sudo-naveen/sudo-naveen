@@ -7,9 +7,9 @@ AI-powered applications, and building practical software projects.
 
 ## Projects
 
-**Prism** - Data analytics and visualization platform
-**Daton** - AI-powered data analyst
-**Echo** - Interview preparation platform
+- **Prism** - Data analytics and visualization platform
+- **Daton** - AI-powered data analyst
+- **Echo** - Interview preparation platform
 
 ## Skills
 
