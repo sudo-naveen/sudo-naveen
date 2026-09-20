@@ -6,18 +6,18 @@
 
 # Hi, I'm Naveen Kumar
 
-💻 Backend Developer | Python | SQL | AI
+Backend Developer | Python | SQL | AI
 
 I'm an engineering student interested in backend development,
 AI-powered applications, and building practical software projects.
 
-## 🚀 Projects
+## Projects
 
 * **Prism** - Data analytics and visualization platform
 * **Daton** - AI-powered data analyst
 * **Echo** - Interview preparation platform
 
-## 🛠️ Skills
+## Skills
 
 **Languages:** Python • C • C++ • SQL
 
